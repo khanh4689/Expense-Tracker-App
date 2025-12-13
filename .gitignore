@@ -1,0 +1,110 @@
+# ===============================
+# Java / Maven
+# ===============================
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# ===============================
+# Node.js / npm
+# ===============================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+dist/
+dist-ssr/
+*.local
+
+# ===============================
+# Environment & Configuration
+# ===============================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+application-local.properties
+application-dev.properties
+
+# ===============================
+# IDE & Editor
+# ===============================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ===============================
+# Logs
+# ===============================
+logs/
+*.log
+log/
+
+# ===============================
+# Docker
+# ===============================
+.dockerignore
+
+# ===============================
+# Database
+# ===============================
+*.db
+*.sqlite
+*.sqlite3
+
+# ===============================
+# OS Generated
+# ===============================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ===============================
+# Temporary files
+# ===============================
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# ===============================
+# Spring Boot
+# ===============================
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# ===============================
+# Security
+# ===============================
+*.pem
+*.key
+*.crt
+*.p12
+*.jks

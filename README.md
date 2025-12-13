@@ -53,6 +53,31 @@ The application solves the common problem of manual expense tracking and provide
 - Maven for backend builds
 - Environment-based configuration
 
+### AI-Assisted Development
+#### ChatGPT
+- Used for system design ideation and architectural planning
+
+- Assisted in backend API design, database schema modeling, and business logic structuring
+
+- Supported frontend UI/UX flow planning and validation logic
+
+- Helped generate technical documentation and setup instructions
+#### Anti-Gravity AI (Code Assistant)
+
+- Assisted in implementing business logic for backend services
+
+- Supported frontend component logic and data flow optimization
+
+- Helped refactor and validate database interaction logic
+
+#### Kiro (AI DevOps Assistant)
+
+- Assisted in Dockerfile and Docker Compose configuration
+
+- Supported DevOps workflows, container orchestration, and environment setup
+
+- Helped diagnose build, deployment, and runtime issues in containerized environments
+
 ## System Architecture
 
 The application follows a three-tier architecture pattern:
